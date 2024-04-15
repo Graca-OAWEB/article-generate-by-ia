@@ -5,12 +5,7 @@
 # Projeto artigo técnico gerado por I.A.s
 
 
-<p align="center">
-  <img 
-    src=".github/assets/preview.png"
-    width="1200"  height="800" 
-  />
-</p>
+![image](preview.png)
 
 
  > Este é o repositório desenvolvido durante o bootcamp ChatGPT for developer na plataforma da [DIO](https://dio.me).
@@ -35,17 +30,17 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o layout responsivo                                                                                                                                                                            |
-| conteúdo | Com base no título: "Dominando o layout responsivo: 5 Dicas Essenciais para Estruturas Flexíveis"
-se comporte como um escritor profissional de artigos especialista em contéudo para desenvolvimento web e gere um artigo conforme o título enfatizando dicas valiosas para desenvolvedores iniciantes. [gere um call action para meu linkdin] |
+| conteúdo | Com base no título: "Dominando o layout responsivo: 5 Dicas Essenciais para Estruturas Flexíveis" se comporte como um escritor profissional de artigos especialista em contéudo para desenvolvimento web e gere um artigo conforme o título enfatizando dicas valiosas para desenvolvedores iniciantes.  [gere um call action para meu linkdin]  
+|
 
 
 Lexica.art：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+ No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• CSS language
-• Mobile
-• CSS language  
+-  CSS language
+-  Mobile
+-  CSS language  
 
 
 
