@@ -8,7 +8,7 @@
 ![image](preview.png)
 
 
- > Este é o repositório desenvolvido durante o bootcamp ChatGPT for developer na plataforma da [DIO](https://dio.me).
+ > Este é o repositório desenvolvido durante o bootcamp ChatGPT for devs na plataforma da [DIO](https://dio.me).
 
 -------
 
