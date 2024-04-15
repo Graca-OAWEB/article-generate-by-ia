@@ -10,12 +10,12 @@
 
  > Este é o repositório desenvolvido durante o bootcamp ChatGPT for devs na plataforma da [DIO](https://dio.me).
 
--------
-
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover autoridade técnica.
 
 <a href="https://dio.me/articles/domine-o-layout-responsivo-5-dicas-essenciais-para-estruturas-flexiveis" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
+
+-------
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
